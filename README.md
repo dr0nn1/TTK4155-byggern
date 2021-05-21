@@ -1,3 +1,3 @@
-# TTK4155-byggeren
+# TTK4155-byggern
 
-Byggeren in the subject TTK4155 at NTNU
+Byggern in the subject TTK4155 at NTNU
