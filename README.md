@@ -1,2 +1,3 @@
 # TTK4155-byggeren
-Kok i vei
+
+Byggeren in the subject TTK4155 at NTNU
